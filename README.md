@@ -1,12 +1,10 @@
 <p align="center">
   <a href="https://github.com/spacexjedi/software_eng101" target="_blank">
-    <img src="./img/meugif.gif">
+    <img src="https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif">
   </a>
 </p>
 
 # software engineering
-
-<h1 align="center"><img src="./img/logo.png" alt="python" width="120"></h1>
 
 <p align="center">Software Engineering Study Path </p>
 
@@ -49,6 +47,6 @@
 
 <p align="center">
   <a href="https://github.com/spacexjedi/software_eng101" target="_blank">
-    <img src="./img/footer.svg" width="380">
+    <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="380">
   </a>
 </p>
