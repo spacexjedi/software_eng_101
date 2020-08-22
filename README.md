@@ -6,7 +6,7 @@
 
 # software engineering
 
-<h1 align="center"><img src="./img/logo.png" alt="php" width="120"></h1>
+<h1 align="center"><img src="./img/logo.png" alt="python" width="120"></h1>
 
 <p align="center">Software Engineering Study Path </p>
 
