@@ -26,7 +26,7 @@
 4. ![ReactJs](https://www.youtube.com/channel/Rocketseat)  
 5. ![SQLite](https://www.twitch.tv/LiveDePython)  
 6. ![Flask](https://www.twitch.tv/CodeShow)  
-7. ![SpotfyClone](https://github.com/spacexjedi/Spockfy)  
+7. ![Spockfython](https://github.com/spacexjedi/spockfython)  
 
 ### Configuração de Ambiente  
 
