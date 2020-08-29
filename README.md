@@ -25,6 +25,9 @@
 5. ![SQLite](https://www.twitch.tv/LiveDePython)  
 6. ![Flask](https://www.twitch.tv/CodeShow)  
 7. ![Spockfython](https://github.com/spacexjedi/spockfython)  
+8. ![Projeto Exemplo Fornecido pelo professor](https://github.com/spacexjedi/Software-Eng-101)  
+9. ![TDD exemplos e leituras](https://github.com/unicodeveloper/awesome-tdd)  
+10. ![Métodos Ágeis](https://github.com/lorabv/awesome-agile)  
 
 ### Configuração de Ambiente  
 
@@ -47,7 +50,7 @@
 
 1. Test Driven Development  - Casa do Código  
 2. OAuth APIs e Springboot - Casa do Código  
-3. Flask documentação \ SqlAlchemy \ Spotifypy API Wrapper   
+3. ![Flask documentação](https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application) \ ![SqlAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) \ ![Spotifypy API Wrapper](https://spotifypy.readthedocs.io/en/latest/)   
 4. NLW Rockeatseat de ReactJS   
 
 
