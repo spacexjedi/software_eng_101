@@ -46,9 +46,9 @@
 ### Books  e documentações lidas  
 
 1. Test Driven Development  - Casa do Código  
-2 - OAuth APIs e Springboot - Casa do Código  
-3 - Flask documentação \ SqlAlchemy \ Spotifypy API Wrapper   
-4 - NLW Rockeatseat de ReactJS   
+2. OAuth APIs e Springboot - Casa do Código  
+3. Flask documentação \ SqlAlchemy \ Spotifypy API Wrapper   
+4. NLW Rockeatseat de ReactJS   
 
 
 <p align="center">
