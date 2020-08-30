@@ -14,7 +14,10 @@
   </a>
 </p>
 
-## Navegação
+## Navegação  
+
+Esse repositório contém demo de teste em springboot e trabalho com api spotify utilizando python flask além de todas as anotações
+e materias utilizados para estudo durante o projeto.  
 
 ### Conceitos
 
@@ -42,8 +45,10 @@
 
 ### Componentes
 
-1. ![InitSpringBoot](https://github.com/spacexjedi/Spockfy)
-2. ![Formulario de Cadastro](https://github.com/spacexjedi/spockfyform)
+1. ![InitSpringBoot](https://github.com/spacexjedi/Spockfy)  
+2. ![Formulario de Cadastro](https://github.com/spacexjedi/spockfyform)  
+3. ![Clone Spotify UI](https://github.com/spacexjedi/spotify-clone-ui) 
+4. ![API REST](https://github.com/spacexjedi/spotify-rest-api)  
 
 
 ### Books  e documentações lidas  
