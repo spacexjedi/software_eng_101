@@ -31,6 +31,7 @@ e materias utilizados para estudo durante o projeto.
 8. ![Projeto Exemplo Fornecido pelo professor](https://github.com/spacexjedi/Software-Eng-101)  
 9. ![TDD exemplos e leituras](https://github.com/unicodeveloper/awesome-tdd)  
 10. ![Métodos Ágeis](https://github.com/lorabv/awesome-agile)  
+11. ![API spotify for noobs](https://www.twitch.tv/lehmaria)  
 
 ### Configuração de Ambiente  
 
