@@ -32,6 +32,7 @@ e materias utilizados para estudo durante o projeto.
 9. ![TDD exemplos e leituras](https://github.com/unicodeveloper/awesome-tdd)  
 10. ![Métodos Ágeis](https://github.com/lorabv/awesome-agile)  
 11. ![API spotify for noobs](https://www.twitch.tv/lehmaria)  
+12. ![Codecon - Palestras TDD, Desenvolvimento Ágil](https://codecon.dev/programacao)   
 
 ### Configuração de Ambiente  
 
