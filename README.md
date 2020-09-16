@@ -61,6 +61,7 @@ e materias utilizados para estudo durante o projeto.
 3. ![Flask documentação](https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application) \ ![SqlAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) \ ![Spotifypy API Wrapper](https://spotifypy.readthedocs.io/en/latest/)   
 4. NLW Rockeatseat de ReactJS   
 5. Spring boot and React Packtpub book   
+6 - SCRUM 360 Casa do Código   
 
 
 <p align="center">
