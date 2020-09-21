@@ -18,6 +18,7 @@
 
 Esse repositório contém demo de teste em springboot e trabalho com api spotify utilizando python flask além de todas as anotações
 e materias utilizados para estudo durante o projeto.  
+O objetivo é organizar os estudos sobre boas práticas de desenvolvimento de software.
 
 ### Conceitos
 
@@ -33,17 +34,18 @@ e materias utilizados para estudo durante o projeto.
 10. ![Métodos Ágeis](https://github.com/lorabv/awesome-agile)  
 11. ![API spotify for noobs](https://www.twitch.tv/lehmaria)  
 12. ![Codecon - Palestras TDD, Desenvolvimento Ágil](https://codecon.dev/programacao)  
-13. ![Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258)  
+13. ![Udacity: Software Testing](https://www.udacity.com/course/software-testing--cs258) 
+14. ![Engenharia de Software](https://courses.edx.org/courses/course-v1:UBCx+SoftEng1x+1T2018/course/)   
 
 ### Configuração de Ambiente  
 
 1. ![VSCode](https://code.visualstudio.com)   
-2. ![Springboot]()  
+2. ![Springboot](https://spring.io/quickstart)    
 3. ![Codesandebox](https://codesandbox.io/dashboard)  
-4. ![SublimeText]()   
-5. ![Java13]()   
-6. ![Python3]()  
-7. ![NodeJS]()  
+4. ![SublimeText](https://www.sublimetext.com/)    
+5. ![Java11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)     
+6. ![Python3](https://www.python.org/)       
+7. ![NodeJS](https://nodejs.org/en/)    
 
 
 ### Componentes
@@ -61,7 +63,8 @@ e materias utilizados para estudo durante o projeto.
 3. ![Flask documentação](https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application) \ ![SqlAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) \ ![Spotifypy API Wrapper](https://spotifypy.readthedocs.io/en/latest/)   
 4. NLW Rockeatseat de ReactJS   
 5. Spring boot and React Packtpub book   
-6. SCRUM 360 Casa do Código   
+6. SCRUM 360 Casa do Código  
+7. Trilhas Python e Desenvolvimento Web 
 
 
 <p align="center">
