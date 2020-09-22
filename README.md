@@ -64,7 +64,7 @@ O objetivo é organizar os estudos sobre boas práticas de desenvolvimento de so
 4. NLW Rockeatseat de ReactJS   
 5. Spring boot and React Packtpub book   
 6. SCRUM 360 Casa do Código  
-7. Trilhas Python e Desenvolvimento Web 
+7. Trilhas Python e Desenvolvimento Web - Casa do Código   
 
 
 <p align="center">
