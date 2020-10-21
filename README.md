@@ -67,6 +67,7 @@ O objetivo é organizar os estudos sobre boas práticas de desenvolvimento de so
 5. Spring boot and React Packtpub book   
 6. SCRUM 360 Casa do Código  
 7. Trilhas Python e Desenvolvimento Web - Casa do Código   
+8. Spock framework  - Casa do Código   
 
 
 <p align="center">
